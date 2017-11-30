@@ -1,3 +1,9 @@
 
 //win10 自带的linux终端
 https://msdn.microsoft.com/commandline/wsl/about
+
+//命令行的艺术
+https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
+
+//Docker Cheat Sheet (速查，组织的不错)
+https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn#docker-cheat-sheet
